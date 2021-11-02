@@ -1,9 +1,5 @@
 ### Olá, eu sou a Kamila Pantoja. 👋😄
 
-- 🌱 Atualmente estudando Desenvolvimento Web FullStack na Trybe
-- ⚡ Posso ser encontrada em frente ao PC programando e ouvindo uns Rock Paulera, ou praticando Karatê.
-
-
 <div align="center">
   <a href="https://github.com/kamilapantoja">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamilapantoja&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
