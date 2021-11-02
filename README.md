@@ -1,8 +1,10 @@
 ### Olá, eu sou a Kamila Pantoja. 👋😄
 <div align="center">
+  <div height="360em">
   <a href="https://github.com/kamilapantoja">
-  <img height="171em" src="https://github-readme-stats.vercel.app/api?username=kamilapantoja&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamilapantoja&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilapantoja&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Kamila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
