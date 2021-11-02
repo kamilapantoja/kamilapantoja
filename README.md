@@ -1,4 +1,4 @@
-### Olá, eu sou a Kamila Pantoja. Estudante de Desenvolvimento Web FullStack. 👋😄
+### Olá, eu sou a Kamila Pantoja. 👋😄
 
 - 🌱 Atualmente estudando Desenvolvimento Web FullStack na Trybe
 - ⚡ Posso ser encontrada em frente ao PC programando e ouvindo uns Rock Paulera, ou praticando Karatê.
