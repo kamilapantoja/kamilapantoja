@@ -11,6 +11,9 @@ No decorrer dos meus estudos e projetos acabei me apaixonando por BackEnd. Esta 
 * Gosto de jogar uns joguinhos no celular e no console.🎮
 * Atualmente estou focada em desenvolver ainda mais meus conhecimentos em tecnologias e arquiteturas do BackEnd, como: JavaScript, Node.js, Express,       MySQL, MVC e SOLID, e adquirir novas habilidades que me ajudem a construir soluções e resolver problemas da área.🚀
 
+<p align="center">
+	<img width="400" src="gifs/programmer-girl.gif">
+</p>
 
 <div>
   <h2>Habilidades</h2>
