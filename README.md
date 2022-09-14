@@ -3,14 +3,13 @@
 Sou de Manaus-Amazonas, e atualmente sou estudante de Desenvolvimento de Software na Trybe. Sou formada em Processos Gerenciais, e já trabalhei com Marketing Digital com foco em gestão de Tráfego Pago e Mídias Sociais. Resolvi fazer minha transição de carreira em 2021 para área de Tecnologia pois vi nessa área a forte presença de uma coisa que também está intrínseco em mim, que é a evolução constante. Isto é essencial pra uma pessoa como eu que gosta de estar sempre estudando e progredindo.<br>
 No decorrer dos meus estudos e projetos acabei me apaixonando por BackEnd. Esta é a área que eu me encontrei como pessoa desenvolvedora e pretendo seguir carreira nela.
 
-<div>
-  <h2>Hobbies e Paixões</h2>
-      <li> Sou lutadora de Karate Shotokan, fui campeã da minha categoria na 18º Copa Norte de Karatê Interestilos, nas modalidades Kata e Kumite.🥋<li/>
-      Já fui jogadora de Rugby🏉 <li/>
-      Gosto de muito de ler livros sobre desenvolvimento pessoal, finanças, espiritualidade e alguns sobre ficção.📚<li/>
-      Gosto de jogar uns joguinhos no celular e no console.🎮<li/>
-      Atualmente estou focada em desenvolver ainda mais meus conhecimentos em tecnologias e arquiteturas do BackEnd, como: JavaScript, Node.js, Express,       MySQL, MVC e SOLID, e adquirir novas habilidades que me ajudem a construir soluções e resolver problemas da área.🚀
-<div/>
+## Hobbies
+
+* Sou lutadora de Karate Shotokan, fui campeã da minha categoria na 18º Copa Norte de Karatê Interestilos, nas modalidades Kata e Kumite.🥋
+* Já fui jogadora de Rugby🏉
+* Gosto de muito de ler livros sobre desenvolvimento pessoal, finanças, espiritualidade e alguns sobre ficção.📚
+* Gosto de jogar uns joguinhos no celular e no console.🎮
+* Atualmente estou focada em desenvolver ainda mais meus conhecimentos em tecnologias e arquiteturas do BackEnd, como: JavaScript, Node.js, Express,       MySQL, MVC e SOLID, e adquirir novas habilidades que me ajudem a construir soluções e resolver problemas da área.🚀
 
 
 <div>
