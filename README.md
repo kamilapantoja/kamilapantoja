@@ -5,13 +5,11 @@ No decorrer dos meus estudos e projetos acabei me apaixonando por BackEnd. Esta 
 
 <div>
   <h2>Hobbies e Paixões</h2>
-    <ul>
       <li> Sou lutadora de Karate Shotokan, fui campeã da minha categoria na 18º Copa Norte de Karatê Interestilos, nas modalidades Kata e Kumite.🥋<li/>
       Já fui jogadora de Rugby🏉 <li/>
-      <li> Gosto de muito de ler livros sobre desenvolvimento pessoal, finanças, espiritualidade e alguns sobre ficção.📚<li/>
-      <li> Gosto de jogar uns joguinhos no celular e no console.🎮<li/>
-      <li> Atualmente estou focada em desenvolver ainda mais meus conhecimentos em tecnologias e arquiteturas do BackEnd, como: JavaScript, Node.js, Express,       MySQL, MVC e SOLID, e adquirir novas habilidades que me ajudem a construir soluções e resolver problemas da área.🚀
-    <ul/>
+      Gosto de muito de ler livros sobre desenvolvimento pessoal, finanças, espiritualidade e alguns sobre ficção.📚<li/>
+      Gosto de jogar uns joguinhos no celular e no console.🎮<li/>
+      Atualmente estou focada em desenvolver ainda mais meus conhecimentos em tecnologias e arquiteturas do BackEnd, como: JavaScript, Node.js, Express,       MySQL, MVC e SOLID, e adquirir novas habilidades que me ajudem a construir soluções e resolver problemas da área.🚀
 <div/>
 
 
