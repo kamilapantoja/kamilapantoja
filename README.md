@@ -1,4 +1,4 @@
-### Olá, eu sou Kamila Pantoja. 👋😄
+### Olá, eu sou a Kamila Pantoja. 👋😄
 #
 Sou de Manaus-Amazonas, e atualmente sou estudante de Desenvolvimento de Software na Trybe. Sou formada em Processos Gerenciais, e já trabalhei com Marketing Digital com foco em gestão de Tráfego Pago e Mídias Sociais. Resolvi fazer minha transição de carreira em 2021 para Desenvolvimento de Software pois vi nessa área a forte presença de uma coisa que também está intrínseco em mim, que é constante busca por evolução. Sentir que estou evoluindo todos os dias, aprendendo um nova tecnologia, ajudando a construir soluções e resolver problemas é algo que só consigo sentir no mundo da programação. No decorrer dos meus estudos e projetos acabei me apaixonando por BackEnd. Esta é a área que eu me encontrei como pessoa desenvolvedora e pretendo seguir carreira nela. 
 
