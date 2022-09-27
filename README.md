@@ -30,6 +30,7 @@ Sou de Manaus-Amazonas, e atualmente sou estudante de Desenvolvimento de Softwar
     <img align="center" alt="Kamila-Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
     <img align="center" alt="Kamila-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="Kamila-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
+    <img align="center" alt="Kamila-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
 
 ## Contato
