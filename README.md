@@ -1,15 +1,19 @@
 ### Olá, eu sou a Kamila Pantoja. 👋😄
 #
-Sou de Manaus-Amazonas, e atualmente sou estudante de Desenvolvimento de Software na Trybe. Sou formada em Processos Gerenciais, e já trabalhei com Marketing Digital com foco em gestão de Tráfego Pago e Mídias Sociais. Resolvi fazer minha transição de carreira em 2021 para Desenvolvimento de Software pois vi nessa área a forte presença de uma coisa que também está intrínseco em mim, que é constante busca por evolução. Sentir que estou evoluindo todos os dias, aprendendo um nova tecnologia, ajudando a construir soluções e resolver problemas é algo que só consigo sentir no mundo da programação.
+Atualmente sou estudante de Desenvolvimento de Software na Trybe, onde adquiri competências em Fundamentos de Desenvolvimento de Software, Desenvolvimento Front-End, Desenvolvimento Back-End, e agora finalizando o módulo de Ciência da Computação. 
 
-## Curiosidades, Hobbies e Interesses
+Sou formada em Processos Gerenciais, já trabalhei com Marketing Digital com foco em gestão de Tráfego Pago e Mídias Sociais. Em 2021 decidi seguir uma paixão antiga chamada tecnologia, então resolvi fazer minha transição de carreira para a área de Desenvolvimento de Software.
+
+Tenho conhecimento e projetos realizados em: JavaScript, Typescript, Node.js, Express, Banco de Dados, SQL, MySQL, NoSQL, MongoDB, Docker, Git, Github.
+Tenho estudado e me aprofundado em Estrutura de Dados, Programação Orientada a Objetos, e nas linguagens Java e Python.
+
+## Curiosidades e Hobbies
 
 * Sou lutadora de Karate Shotokan, fui campeã da minha categoria na 18º Copa Norte de Karatê Interestilos, nas modalidades Kata e Kumite.🥋
 * Já fui jogadora de Rugby.🏉
 * Gosto de muito de ler livros sobre tecnologia, desenvolvimento pessoal, finanças, espiritualidade e alguns sobre ficção.📚
 * Gosto de jogar uns joguinhos no celular e no console.🎮
 * Adoro brincar com meus doguinhos.🐕
-* Atualmente estou focada em desenvolver ainda mais meus conhecimentos em tecnologias do BackEnd, como: JavaScript, Typescript, Node.js, Express e MySQL, Estrutura de Dados, princípios SOLID e adquirir novas habilidades que me ajudem a construir soluções e resolver problemas da área.🚀
 
 <p align="center">
 	<img width="300" src="gifs/programmer-girl.gif">
