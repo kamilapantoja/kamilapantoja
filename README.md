@@ -1,6 +1,6 @@
 ### Olá, eu sou a Kamila Pantoja. 👋😄
 #
-Atualmente sou estudante de Desenvolvimento de Software na Trybe, onde adquiri competências em Fundamentos de Desenvolvimento de Software, Desenvolvimento Front-End, Desenvolvimento Back-End, e agora finalizando o módulo de Ciência da Computação. 
+Atualmente trabalho como Analista de Desenvolvimento de Sistemas no Instituto IPDEC. Sou formada em Processos Gerenciais, e estou cursando minha segunda graduação em Engenharia de Software. Também sou estudante do curso de Desenvolvimento Web Fullstack da Trybe, onde adquiri conhecimento teórico e prático em Fundamentos de Desenvolvimento de Software, FrontEnd e BackEnd.
 
 Sou formada em Processos Gerenciais, já trabalhei com Marketing Digital com foco em gestão de Tráfego Pago e Mídias Sociais. Em 2021 decidi seguir uma paixão antiga chamada tecnologia, então resolvi fazer minha transição de carreira para a área de Desenvolvimento de Software.
 
