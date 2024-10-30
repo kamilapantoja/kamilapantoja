@@ -1,17 +1,18 @@
 ### Olá, eu sou a Kamila Pantoja. 👋😄
 #
-Atualmente trabalho como Analista de Desenvolvimento de Sistemas no Instituto IPDEC. Sou formada em Processos Gerenciais, e estou cursando minha segunda graduação em Engenharia de Software. Também sou estudante do curso de Desenvolvimento Web Fullstack da Trybe, onde adquiri conhecimento teórico e prático em Fundamentos de Desenvolvimento de Software, FrontEnd e BackEnd.
+Atualmente trabalho como Analista de Desenvolvimento de Sistemas no Instituto IPDEC. Sou formada em Processos Gerenciais, e estou cursando minha segunda graduação em Engenharia de Software. Também concluí o curso de Desenvolvimento Web Fullstack da Trybe, onde adquiri conhecimento teórico e prático em Fundamentos de Desenvolvimento de Software, FrontEnd, BackEnd e Ciência da Computação.
 
-Sou formada em Processos Gerenciais, já trabalhei com Marketing Digital com foco em gestão de Tráfego Pago e Mídias Sociais. Em 2021 decidi seguir uma paixão antiga chamada tecnologia, então resolvi fazer minha transição de carreira para a área de Desenvolvimento de Software.
+Já trabalhei com Marketing Digital com foco em gestão de Tráfego Pago e Mídias Sociais. Em 2021 decidi seguir uma paixão antiga chamada tecnologia, então resolvi fazer minha transição de carreira para a área de Desenvolvimento de Software.
 
-Tenho conhecimento e projetos realizados em: JavaScript, Typescript, Node.js, Express, Banco de Dados, SQL, MySQL, NoSQL, MongoDB, Docker, Git, Github.
-Tenho estudado e me aprofundado em Estrutura de Dados, Programação Orientada a Objetos, e nas linguagens Java e Python.
+Tenho conhecimento e projetos realizados em: JavaScript, Typescript, Nest.js, Node.js, Express, Banco de Dados, SQL, MySQL, Docker, Git, Github.
+Tenho estudado e me aprofundado em Programação Orientada a Objetos e tecnologias voltadas para desenvolvimento do backEnd como Nest.js, TypeORM e Postgres.
 
 ## Curiosidades e Hobbies
 
-* Sou lutadora de Karate Shotokan, fui campeã da minha categoria na 18º Copa Norte de Karatê Interestilos, nas modalidades Kata e Kumite.🥋
+* Sou atleta de Muay Thai, grau azul clara.
+* Entrei no mundo da arte marcial através do Karate Shotokan, pratiquei durante um bom tempo e também fui campeã da minha categoria na 18º Copa Norte de Karatê Interestilos, nas modalidades Kata e Kumite.🥋
 * Já fui jogadora de Rugby.🏉
-* Gosto de muito de ler livros sobre tecnologia, desenvolvimento pessoal, finanças, espiritualidade e alguns sobre ficção.📚
+* Gosto de muito de ler livros sobre desenvolvimento pessoal, finanças, tecnologia, espiritualidade e alguns sobre ficção.📚
 * Gosto de jogar uns joguinhos no celular e no console.🎮
 * Adoro brincar com meus doguinhos.🐕
 
