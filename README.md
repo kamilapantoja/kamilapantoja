@@ -51,6 +51,6 @@ Tenho estudado e me aprofundado em Programação Orientada a Objetos e tecnologi
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilapantoja&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
-  ![Snake animation](https://github.com/kamilapantoja/kamilapantoja/blob/output/github-contribution-grid-snake.svg)
+  // ![Snake animation](https://github.com/kamilapantoja/kamilapantoja/blob/output/github-contribution-grid-snake.svg)
   
 </div>
