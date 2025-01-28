@@ -1,11 +1,11 @@
 ### Olá, eu sou a Kamila Pantoja. 👋😄
 #
-Atualmente trabalho como Analista de Desenvolvimento de Sistemas no Instituto IPDEC. Sou formada em Processos Gerenciais, e estou cursando minha segunda graduação em Engenharia de Software. Também concluí o curso de Desenvolvimento Web Fullstack da Trybe, onde adquiri conhecimento teórico e prático em Fundamentos de Desenvolvimento de Software, FrontEnd, BackEnd e Ciência da Computação.
+Profissional com 4 anos de experiência em Desenvolvimento Web, sendo 2 anos com foco em Desenvolvimento Backend. Sou formada em Processos Gerenciais, e estou cursando minha segunda graduação em Engenharia de Software. Também concluí o curso de Desenvolvimento Web Fullstack da Trybe, onde adquiri conhecimento teórico e prático em Fundamentos de Desenvolvimento de Software, FrontEnd, BackEnd e Ciência da Computação.
 
 Já trabalhei com Marketing Digital com foco em gestão de Tráfego Pago e Mídias Sociais. Em 2021 decidi seguir uma paixão antiga chamada tecnologia, então resolvi fazer minha transição de carreira para a área de Desenvolvimento de Software.
 
-Tenho conhecimento e projetos realizados em: JavaScript, Typescript, Nest.js, Node.js, Express, Banco de Dados, SQL, MySQL, Docker, Git, Github.
-Tenho estudado e me aprofundado em Programação Orientada a Objetos e tecnologias voltadas para desenvolvimento do backEnd como Nest.js, TypeORM e Postgres.
+Tenho conhecimento e projetos realizados em: JavaScript, Typescript, Nest.js, Node.js, Express, Banco de Dados, SQL, Docker, Git, Github.
+tualmente tem se dedicado aos estudos das linguagens Java e Python.
 
 ## Curiosidades e Hobbies
 
