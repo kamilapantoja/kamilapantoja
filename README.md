@@ -5,7 +5,7 @@ Profissional com 4 anos de experiência em Desenvolvimento Web, sendo 2 anos com
 Já trabalhei com Marketing Digital com foco em gestão de Tráfego Pago e Mídias Sociais. Em 2021 decidi seguir uma paixão antiga chamada tecnologia, então resolvi fazer minha transição de carreira para a área de Desenvolvimento de Software.
 
 Tenho conhecimento e projetos realizados em: JavaScript, Typescript, Nest.js, Node.js, Express, Banco de Dados, SQL, Docker, Git, Github.
-tualmente tem se dedicado aos estudos das linguagens Java e Python.
+Atualmente tem se dedicado aos estudos voltados ao Desenvolvimento Front-End com React.
 
 ## Curiosidades e Hobbies
 
