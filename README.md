@@ -1,11 +1,12 @@
 ### Olá, eu sou a Kamila Pantoja. 👋😄
 #
-Profissional com 2 anos de experiência profissional com foco em Desenvolvimento Backend. Sou formada em Processos Gerenciais, e estou cursando minha segunda graduação em Engenharia de Software. Também concluí o curso de Desenvolvimento Web Fullstack da Trybe, onde adquiri conhecimento teórico e prático em Fundamentos de Desenvolvimento de Software, FrontEnd, BackEnd e Ciência da Computação.
+Sou uma profissional com 2 anos de experiência em Desenvolvimento Web, com foco em Backend. Graduada em Processos Gerenciais, atualmente estou cursando minha segunda graduação em Engenharia de Software. Além disso, concluí o curso de Desenvolvimento Web Fullstack pela Trybe, onde adquiri conhecimento teórico e prático em Fundamentos de Desenvolvimento de Software, Frontend, Backend e Ciência da Computação.
 
-Já trabalhei com Marketing Digital com foco em gestão de Tráfego Pago e Mídias Sociais. Em 2021 decidi seguir uma paixão antiga chamada tecnologia, então resolvi fazer minha transição de carreira para a área de Desenvolvimento de Software.
+Antes de ingressar na área de tecnologia, atuei com Marketing Digital, focada em Gestão de Tráfego Pago e Mídias Sociais. Em 2021, decidi seguir uma paixão antiga: tecnologia, realizando minha transição de carreira para Desenvolvimento de Software.
 
-Tenho conhecimento e projetos realizados em: JavaScript, Typescript, Nest.js, Node.js, Express, Banco de Dados, SQL, Docker, Git, Github.
-Atualmente tem se dedicado aos estudos voltados ao Desenvolvimento Front-End com React.
+Possuo conhecimento e projetos realizados utilizando tecnologias como: JavaScript, TypeScript, Node.js, NestJS, TypeORM, Prisma, Express, SQL, MySQL, PostgreSQL, Docker, Git e GitHub
+
+Atualmente, atuo como Estagiária de Análise de Dados e Inteligência Artificial, onde estou expandindo minhas habilidades em: Python, Databricks, Power BI, RPA (Robotic Process Automation), Power Automate para integração de sistemas e aumento de produtividade e IAs Generativas.
 
 ## Curiosidades e Hobbies
 
