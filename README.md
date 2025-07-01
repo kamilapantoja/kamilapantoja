@@ -6,7 +6,7 @@ Antes de ingressar na área de tecnologia, atuei com Marketing Digital, focada e
 
 Possuo conhecimento e projetos realizados utilizando tecnologias como: JavaScript, TypeScript, Node.js, NestJS, TypeORM, Prisma, Express, SQL, MySQL, PostgreSQL, Docker, Git e GitHub
 
-Atualmente, atuo como Estagiária de Análise de Dados e Inteligência Artificial, onde estou expandindo minhas habilidades em: Python, Databricks, Power BI, RPA (Robotic Process Automation), Power Automate para integração de sistemas e aumento de produtividade e IAs Generativas.
+Atualmente, atuo como Trainee Digital na Bemol, onde estou expandindo minhas habilidades em Desenvolvimento de Software, Python, Databricks, RPA (Robotic Process Automation) e aumento de produtividade e IAs Generativas.
 
 ## Curiosidades e Hobbies
 
