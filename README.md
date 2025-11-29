@@ -1,6 +1,6 @@
 ### Olá, eu sou a Kamila Pantoja. 👋😄
 #
-Sou uma profissional com 2 anos de experiência em Desenvolvimento Web, com foco em Backend. Graduada em Processos Gerenciais, atualmente estou cursando minha segunda graduação em Engenharia de Software. Além disso, concluí o curso de Desenvolvimento Web Fullstack pela Trybe, onde adquiri conhecimento teórico e prático em Fundamentos de Desenvolvimento de Software, Frontend, Backend e Ciência da Computação.
+Sou uma profissional com 3 anos de experiência em Desenvolvimento Web, com foco em Backend. Graduada em Processos Gerenciais, atualmente estou cursando minha segunda graduação em Engenharia de Software. Além disso, concluí o curso de Desenvolvimento Web Fullstack pela Trybe, onde adquiri conhecimento teórico e prático em Fundamentos de Desenvolvimento de Software, Frontend, Backend e Ciência da Computação.
 
 Antes de ingressar na área de tecnologia, atuei com Marketing Digital, focada em Gestão de Tráfego Pago e Mídias Sociais. Em 2021, decidi seguir uma paixão antiga: tecnologia, realizando minha transição de carreira para Desenvolvimento de Software.
 
@@ -10,7 +10,7 @@ Atualmente, atuo como Trainee Digital na Bemol, onde estou expandindo minhas hab
 
 ## Curiosidades e Hobbies
 
-* Sou atleta de Muay Thai, grau azul clara.
+* Sou atleta de Muay Thai, grau azul clara ponta azul escura.
 * Entrei no mundo da arte marcial através do Karate Shotokan, pratiquei durante um bom tempo e também fui campeã da minha categoria na 18º Copa Norte de Karatê Interestilos, nas modalidades Kata e Kumite.🥋
 * Já fui jogadora de Rugby.🏉
 * Gosto de muito de ler livros sobre desenvolvimento pessoal, finanças, tecnologia, espiritualidade e alguns sobre ficção.📚
